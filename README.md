@@ -33,3 +33,12 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheemanthrk&" alt="dheemanthrk" /></p>
 
+---
+
+🚀 Tech | 📊 Data | ☁️ Cloud
+
+Passionate about solving real-world problems and building innovative solutions! Always learning, always exploring. 🌱
+
+Check out my open-source projects on GitHub – contributions are always welcome! Currently, I'm focused on building a **Forest Fire Dataset Generation Tool** and a **Fire Spread Simulator**. These projects aim to advance our understanding and response to forest fires.
+
+Let’s connect and collaborate! 🤝✨
